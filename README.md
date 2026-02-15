@@ -22,8 +22,8 @@ The audit is based on a dataset of **144 attack vectors** categorized as follows
 ## 📈 Analysis & Results
 
 ### 1. Vulnerability Rate by Model
-> *<img width="646" height="331" alt="image" src="https://github.com/user-attachments/assets/7928214c-173a-402d-b665-09a56c1e7d5e" />
-*
+> *<img width="977" height="578" alt="image" src="https://github.com/user-attachments/assets/7621ddf1-eced-48de-a14a-0c4160cd6ac4" />*
+
 
 | Model | Vulnerability Rate (YES) | Security Status |
 | :--- | :---: | :--- |
