@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Résultats des nouveaux runs (les données publiées sont dans data/)
+runs/
+
+# Fichiers temporaires Office / Power BI
+~$*
+.~lock.*
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
